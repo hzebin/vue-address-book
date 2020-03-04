@@ -12,5 +12,5 @@
 
 <hr/>
 效果图<br/>
-![image](./show-1.png)<br/>
-![image](./show-2.png)<br/>
+![image](show-1.jpg)<br/>
+![image](show-2.jpg)<br/>
