@@ -12,5 +12,5 @@
 
 <hr/>
 效果图<br/>
-![image](show-1.jpg)<br/>
-![image](show-2.jpg)<br/>
+https://github.com/hzebin/vue-address-book/blob/master/show-1.jpg<br/>
+https://github.com/hzebin/vue-address-book/blob/master/show-2.jpg<br/>
