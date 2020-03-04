@@ -8,3 +8,9 @@
 还可以优化的地方：<br/>
 1. 删除可以增加二次确认<br/>
 2. 修改用户信息时，可以增加字段校验<br/>
+
+
+<hr/>
+效果图<br/>
+![image](https://github.com/hzebin/vue-address-book/blob/master/show-1.png)
+![image](https://github.com/hzebin/vue-address-book/blob/master/show-2.png)
