@@ -1,19 +1,10 @@
 # vue-address-book
 
-## Project setup
-```
-npm install
-```
+# 一个基于Vue和ElementUI开发的小项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<hr/>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+开发状态：结束<br/>
+还可以优化的地方：<br/>
+1. 删除可以增加二次确认<br/>
+2. 修改用户信息时，可以增加字段校验<br/>
